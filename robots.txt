@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suetl.github.io/rgX/sitemap.rgX.gz
